@@ -40,4 +40,8 @@ plot(x, hhc_sub$Global_reactive_power, type = 'l', ylab = 'Global_reactive_power
 
 
 #Save plots
+<<<<<<< HEAD
 png('Plot4.png', width = 480, height=480)
+=======
+png('Plot4.png', width = 480, height=480)
+>>>>>>> 542e48e0c4d3efec724faed10c0cf9a6aadc9cc9
